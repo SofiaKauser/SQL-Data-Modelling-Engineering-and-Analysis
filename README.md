@@ -1,8 +1,8 @@
 # SQL Data Modelling, Engineering and Analysis
 
-### Introduction
+## Introduction
 
-In this project I aim to explore SQL in database with limited CSV files to determine preset questions for analysis
+In this project I aim to explore SQL database using 6 limited CSV files from Pewlett Hackard employee's data from the 1980s and 1990s to determine preset questions for analysis.
 
 
 ## Data Modelling 
