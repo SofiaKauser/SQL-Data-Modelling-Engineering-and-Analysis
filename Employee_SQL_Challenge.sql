@@ -1,3 +1,5 @@
+-- Creating the tables in SQL
+
 -- DATA ENGINEERING --
 
 -- Drop Tables if Existing
